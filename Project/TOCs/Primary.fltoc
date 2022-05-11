@@ -6,5 +6,5 @@
     Link="/Content/Topic.htm" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/NewTopic.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    Link="/Content/NewFolder/NewTopic.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
 </CatapultToc>
